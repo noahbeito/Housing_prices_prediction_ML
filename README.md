@@ -44,8 +44,7 @@ Through the project we use Linear Regression, Random Forests Regressor and Gradi
 Evaluation of all machine learning models.
 
 * Linear Regression:
-
-![LR](Images_Videos/LR.png)
+  ![LR](Images_Videos/LR.png)
 
 
 * Random Forest:
@@ -63,10 +62,10 @@ Evaluation of all machine learning models.
 ## Summary
 
 Summarizing the results of the machine learning models we want to show the accuracy score with initial data and at the end.
-![Table](Images_Videos/FirstAccuracyTable.png)
-![Table](Images_Videos/LastAccuracyTable.png)
-![Chart](Images_Videos/FirstComp.png)
-![Chart](Images_Videos/LastComp.png)
+   ![Table](Images_Videos/FirstAccuracyTable.png)
+   ![Table](Images_Videos/LastAccuracyTable.png)
+   ![Chart](Images_Videos/FirstComp.png)
+   ![Chart](Images_Videos/LastComp.png)
 
 ## Contributors
 
