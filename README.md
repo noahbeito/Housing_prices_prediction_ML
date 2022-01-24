@@ -1,6 +1,6 @@
 ![KC](https://everything-pr.com/wp-content/uploads/2018/10/King-County-Procurement-Issues-Public-Relations-RFP.jpg)
 # Housing_prices_prediction_ML
-Using Machine Learning models to predict house sale prices in King County, Washington. The dataset was obtained from Kaggle and consists of historic data of houses sold in King County from May 2014 to May 2015. 
+Using Machine Learning models to predict house sale prices based on house features. The dataset was obtained from Kaggle and consists of historic data of houses sold in King County, Washington from May 2014 to May 2015. 
 ---
 ## Technologies
 Python 3.7 with the following libraries:
@@ -23,11 +23,11 @@ from sklearn.ensemble import RandomForestRegressor
 ```
 ---
 ## Contributors
+
 [Nara](https://github.com/arakelyannara)
-
 [Dylan Nelson](https://github.com/anythingelse-sf)
-
 [Noah Beito](https://www.linkedin.com/in/noah-beito/)
+
 ---
 ## License
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
