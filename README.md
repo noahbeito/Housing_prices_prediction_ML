@@ -46,24 +46,31 @@ Evaluation of all machine learning models.
 * Linear Regression:
   ![LR](Images_Videos/LR.png)
 
-
+---------------------------
 * Random Forest:
 
   ![RF1](Images_Videos/RF1.png)
+  
   ![RF2](Images_Videos/RF2.png)
+  
   ![RF2_imp](Images_Videos/RF_importance.png)
+  --------------------------
 
 * GradientBoost Regressor:
 
   ![GB](Images_Videos/GB.png)
+  
   ![GB_imp_imp](Images_Videos/GB_importance.png)
-
+-----------------------------
 
 ## Summary
 
 Summarizing the results of the machine learning models we want to show the accuracy score with initial data and at the end.
+
+
    ![Table](Images_Videos/FirstAccuracyTable.png)
    ![Table](Images_Videos/LastAccuracyTable.png)
+   
    ![Chart](Images_Videos/FirstComp.png)
    ![Chart](Images_Videos/LastComp.png)
 
