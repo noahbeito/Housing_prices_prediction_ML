@@ -10,10 +10,6 @@ This is a King County Real Estate Market Analysis using Machine Learning models 
 ---
 ## Technologies
 Python 3.7 with the following libraries:
- ```
- Python
- 
- ```
 
 * [pandas](https://github.com/pandas-dev/pandas)
 * [numpy](https://github.com/numpy/numpy)
@@ -39,40 +35,45 @@ Project objectives are to find the best performing ML model, also to find out wh
 Through the project we use Linear Regression, Random Forests Regressor and Gradient Boost Regressor.
 
 ------
-## Results
+## __Results__
 
 Evaluation of all machine learning models.
 
-* Linear Regression:
-  ![LR](Images_Videos/LR.png)
+* __Linear Regression:__
 
----------------------------
-* Random Forest:
+<img src="Images_Videos/LR.png" width="400px" height=90px/>
 
-  ![RF1](Images_Videos/RF1.png)
-  
-  ![RF2](Images_Videos/RF2.png)
-  
-  ![RF2_imp](Images_Videos/RF_importance.png)
-  --------------------------
 
-* GradientBoost Regressor:
+* __Random Forest:__
 
-  ![GB](Images_Videos/GB.png)
-  
-  ![GB_imp_imp](Images_Videos/GB_importance.png)
------------------------------
+<img src="Images_Videos/RF1.png" width="400px" height=90px/>
+
+
+<img src="Images_Videos/RF2.png" width="400px" height=90px/>
+
+<img src="Images_Videos/
+RF_importance.png" width="120px" height=150px/>
+
+* __GradientBoost Regressor:__
+
+<img src="Images_Videos/GB.png" width="400px" height=90px/>
+<img src="Images_Videos/GB_importance.png" width="120px" height=150px/>
+
 
 ## Summary
 
 Summarizing the results of the machine learning models we want to show the accuracy score with initial data and at the end.
 
+<p float="left">
+    <img src="Images_Videos/FirstComp.png" width="170px" height=150px/> </>
+    <img src="Images_Videos/LastComp.png" width="170px" height="150px"/>
+</p>
+--------------------------|---------------------------
+<p float="left">
+    <img src="Images_Videos/FirstAccuracyTable.png" width="170px" height="130px"/>
+    <img src="Images_Videos/LastAccuracyTable.png" width="170px" height="130px"/>
+</p>
 
-   ![Table](Images_Videos/FirstAccuracyTable.png| width=100)
-   ![Table](Images_Videos/LastAccuracyTable.png)
-   
-   ![Chart](Images_Videos/FirstComp.png)
-   ![Chart](Images_Videos/LastComp.png)
 
 ## Contributors
 
