@@ -44,17 +44,16 @@ Evaluation of all machine learning models.
 <img src="Images_Videos/LR.png" width="400px" height=90px/>
 
 
-* __Random Forest:__
+* __Random Forest Regressor:__
 
 <img src="Images_Videos/RF1.png" width="400px" height=90px/>
 
 
 <img src="Images_Videos/RF2.png" width="400px" height=90px/>
 
-<img src="Images_Videos/
-RF_importance.png" width="120px" height=150px/>
+<img src="Images_Videos/RF_importance.png" width="120px" height=150px/>
 
-* __GradientBoost Regressor:__
+* __Gradient Boost Regressor:__
 
 <img src="Images_Videos/GB.png" width="400px" height=90px/>
 <img src="Images_Videos/GB_importance.png" width="120px" height=150px/>
