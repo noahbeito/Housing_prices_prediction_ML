@@ -34,7 +34,8 @@ Project objectives are to find the best performing ML model, also to find out wh
 
 Through the project we use Linear Regression, Random Forests Regressor and Gradient Boost Regressor.
 
-------
+---
+
 ## __Results__
 
 Evaluation of all machine learning models.
@@ -51,12 +52,12 @@ Evaluation of all machine learning models.
 
 <img src="Images_Videos/RF2.png" width="400px" height=90px/>
 
-<img src="Images_Videos/RF_importance.png" width="120px" height=150px/>
+<img src="Images_Videos/RF_importance.png" width="120px" height=250px/>
 
 * __Gradient Boost Regressor:__
 
 <img src="Images_Videos/GB.png" width="400px" height=90px/>
-<img src="Images_Videos/GB_importance.png" width="120px" height=150px/>
+<img src="Images_Videos/GB_importance.png" width="125px" height=250px/>
 
 
 ## Summary
@@ -64,13 +65,13 @@ Evaluation of all machine learning models.
 Summarizing the results of the machine learning models we want to show the accuracy score with initial data and at the end.
 
 <p float="left">
-    <img src="Images_Videos/FirstComp.png" width="170px" height=150px/> </>
-    <img src="Images_Videos/LastComp.png" width="170px" height="150px"/>
+    <img src="Images_Videos/FirstComp.png" width="200px" height=150px/> </>
+    <img src="Images_Videos/LastComp.png" width="200px" height="150px"/>
 </p>
---------------------------|---------------------------
+-------------------------------------------------------------------------------------
 <p float="left">
-    <img src="Images_Videos/FirstAccuracyTable.png" width="170px" height="130px"/>
-    <img src="Images_Videos/LastAccuracyTable.png" width="170px" height="130px"/>
+    <img src="Images_Videos/FirstAccuracyTable.png" width="200px" height="140px"/>
+    <img src="Images_Videos/LastAccuracyTable.png" width="200px" height="140px"/>
 </p>
 
 
