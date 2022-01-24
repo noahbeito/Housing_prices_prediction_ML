@@ -68,7 +68,7 @@ Evaluation of all machine learning models.
 Summarizing the results of the machine learning models we want to show the accuracy score with initial data and at the end.
 
 
-   ![Table](Images_Videos/FirstAccuracyTable.png)
+   ![Table](Images_Videos/FirstAccuracyTable.png,width=200,height=200)
    ![Table](Images_Videos/LastAccuracyTable.png)
    
    ![Chart](Images_Videos/FirstComp.png)
