@@ -25,7 +25,9 @@ from sklearn.ensemble import RandomForestRegressor
 ## Contributors
 
 [Nara](https://github.com/arakelyannara)
+
 [Dylan Nelson](https://github.com/anythingelse-sf)
+
 [Noah Beito](https://www.linkedin.com/in/noah-beito/)
 
 ---
