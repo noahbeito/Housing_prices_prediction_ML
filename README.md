@@ -86,6 +86,4 @@ Summarizing the results of the machine learning models we want to show the accur
 ---
 ## License
 
-UC Berkley
-
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
